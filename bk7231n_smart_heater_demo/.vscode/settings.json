@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tuya_device.h": "c",
+        "led_color_set.h": "c"
+    }
+}
